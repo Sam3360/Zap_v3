@@ -1,7 +1,7 @@
 # [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ 
 
 
-> Latest version merged to official Zap repo so check that out!
+> Latest version will be merged to official Zap repo so check that out!
 
 ![Zap Banner](ZapBanner.png)
 
