@@ -2,6 +2,7 @@
 
 
 > Latest version will be merged to official Zap repo so check that out!
+> Till then use url [Zap_v3](https://Sam3360.github.io/Zap_v3)  
 
 ![Zap Banner](ZapBanner.png)
 
