@@ -1,9 +1,6 @@
 # [Zap](https://Sam3360.github.io/Zap/UserPolicyZap.html)  ⚡ 
 
-
-> Latest version will be merged to official Zap repo so check that out!
-
-> Till then use url [Zap_v3](https://Sam3360.github.io/Zap_v3)  
+> Latest Version Has Been Merged To OG Repo, Use Zap At [Sam3360.github.io/Zap](https://Sam3360.github.io/Zap)
 
 ![Zap Banner](ZapBanner.png)
 
